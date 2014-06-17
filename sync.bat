@@ -1,0 +1,2 @@
+grunt
+exit 0;

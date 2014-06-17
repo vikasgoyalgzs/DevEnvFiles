@@ -1,0 +1,1 @@
+"node.exe"  "C:\Users\goyalvik\node_modules\grunt-cli\bin\grunt" %*
